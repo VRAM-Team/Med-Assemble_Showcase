@@ -343,9 +343,9 @@ stateDiagram-v2
 
 | نقش | نام | ⁦GitHub⁩ | ⁦LinkedIn⁩ |
 |---|---|:--:|:--:|
-| سرگروه | محمد مسیبی | [⁦GitHub⁩](https://github.com/GITHUB_USERNAME_MOSAYEBI) | [⁦LinkedIn⁩](https://www.linkedin.com/in/LINKEDIN_USERNAME_MOSAYEBI) |
-| عضو تیم | پریا کاظمی‌نژاد | [⁦GitHub⁩](https://github.com/GITHUB_USERNAME_KAZEMINEJAD) | [⁦LinkedIn⁩](https://www.linkedin.com/in/LINKEDIN_USERNAME_KAZEMINEJAD) |
-| عضو تیم | یکتا توکلی | [⁦GitHub⁩](https://github.com/GITHUB_USERNAME_TAVAKOLI) | [⁦LinkedIn⁩](https://www.linkedin.com/in/LINKEDIN_USERNAME_TAVAKOLI) |
+| سرگروه | محمد مسیبی | [⁦GitHub⁩](https://https://github.com/Mamad-MD) | [⁦LinkedIn⁩](https://www.linkedin.com/in/LINKEDIN_USERNAME_MOSAYEBI) |
+| عضو تیم | پریا کاظمی‌نژاد | [⁦GitHub⁩](https://github.com/oneta-t) | [⁦LinkedIn⁩](https://www.linkedin.com/in/LINKEDIN_USERNAME_KAZEMINEJAD) |
+| عضو تیم | یکتا توکلی | [⁦GitHub⁩](https://github.com/PariaKazeminezhad) | [⁦LinkedIn⁩](https://www.linkedin.com/in/LINKEDIN_USERNAME_TAVAKOLI) |
 
 <!-- TODO: ایمیل تماس را اینجا اضافه کنید -->
 
