@@ -217,11 +217,4 @@ Build Settings را روی Android بگذارید، در XR Plug-in Management �
 
 <!-- TODO: لینک GitHub/LinkedIn اعضا و ایمیل تماس را اینجا اضافه کنید -->
 
----
-
-## 📄 مجوز
-
-<!-- TODO: مجوز را انتخاب کنید و فایل LICENSE را اضافه کنید -->
-هنوز تعیین نشده.
-
 </div>
